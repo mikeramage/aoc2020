@@ -22,4 +22,11 @@ Didn't quite make it round to learning more Rust last night as I was knackered a
 
 So Python again. Quick and filthy script. Job done. Reading the script back feels like an aimless trudge along a muddy, damp, woodland trail. Grey skies through the grey branches. Light fading. Dull and uninteresting, nary a sign of wildlife - the squirrels are in their dreys, the woodpeckers in their nests, the wild boar asleep in their dens. Muddy boots, tired legs. Time to go home and drink some beer.
 
+# Day 6
+Oh, for the love of ...
 
+Part 1 ran without error second time of trying (forgot a "self" somewhere) and got the right answer. Part 2 ran first time of trying and got the right answer. But deeply unsatisfied. My code is so pedestrian! Some noddy classes encapsulating a "Group" and a "Person", iterating through people and groups in for loops, sets with basic "if answer not in set of answers". Yawn. Could have been so much more elegantly expressed.
+
+The code is like a well-meaning uncle teaching his teenage nephew how to dance. Though they might be in time to the sedate beat, his moves are dated and awkward. With the Bee Gees playing quietly in the background, he bumbles around the living room, flapping his arms and plodding from side to side like a teacher at a school disco c. 1988, earnestly explaining how cool the nephew will look if he can pull off these moves. The nephew blushes, mumbles his thanks, makes his excuses, and leaves. Everyone feels embarrassed, diminished and somehow soiled by the experience.
+
+The following week at the school disco, his nephew sits listlessly in the corner weeping silently into his cola.
