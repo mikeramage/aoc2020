@@ -30,3 +30,6 @@ Part 1 ran without error second time of trying (forgot a "self" somewhere) and g
 The code is like a well-meaning uncle teaching his teenage nephew how to dance. Though they might be in time to the sedate beat, his moves are dated and awkward. With the Bee Gees playing quietly in the background, he bumbles around the living room, flapping his arms and plodding from side to side like a teacher at a school disco c. 1988, earnestly explaining how cool the nephew will look if he can pull off these moves. The nephew blushes, mumbles his thanks, makes his excuses, and leaves. Everyone feels embarrassed, diminished and somehow soiled by the experience.
 
 The following week at the school disco, his nephew sits listlessly in the corner weeping silently into his cola.
+
+# Day 7
+It works. But don't look at it. Please don't look at it.
