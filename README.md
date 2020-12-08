@@ -37,4 +37,4 @@ It works. But don't look at it. Please don't look at it.
 # Day 8
 Pragmatic, like an grizzled old man with massive calloused hands whacking a nail into a plank with a hammer.
 
-But for some reason I wrote got a function with a ludicrously long name that took ages to type. Why?
+But for some reason I wrote a function with a ludicrously long name that took ages to type. Why?
