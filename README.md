@@ -33,3 +33,8 @@ The following week at the school disco, his nephew sits listlessly in the corner
 
 # Day 7
 It works. But don't look at it. Please don't look at it.
+
+# Day 8
+Pragmatic, like an grizzled old man with massive calloused hands whacking a nail into a plank with a hammer.
+
+But for some reason I wrote got a function with a ludicrously long name that took ages to type. Why?
