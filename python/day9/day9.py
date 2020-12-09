@@ -40,12 +40,10 @@ def find_encryption_weakness(data, preamble_size=25):
     invalid_number, invalid_index = find_first_invalid_number(data, preamble_size)
     data_slice = data[:invalid_index]
     for r in range(2, invalid_index):
-        print(f"Checking r = {r}")
         min_index = 0
         max_index = min_index + r
         while max_index < len(data_slice):
             sub_slice = data_slice[min_index:max_index]
-            print(f"summing: {sub_slice}")
             if sum(sub_slice) == invalid_number:
                 return min(sub_slice) + max(sub_slice)
             min_index += 1
