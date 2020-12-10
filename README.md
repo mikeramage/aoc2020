@@ -38,3 +38,11 @@ It works. But don't look at it. Please don't look at it.
 Pragmatic, like an grizzled old man with massive calloused hands whacking a nail into a plank with a hammer.
 
 But for some reason I wrote a function with a ludicrously long name that took ages to type. Why?
+
+# Day 9
+Workmanlike. No nonsense. Brute forcey. Like a George Foreman punch. Or a burger cooked on a George Foreman grill.
+
+# Day 10
+You don't need drugs. Just try to understand my code. I certainly don't.
+
+Far out, dude!
