@@ -55,3 +55,6 @@ Gah! Stupid mistake after stupid mistake. Fine in the end.
 
 # Day 13
 Abomination.
+
+# Day 14
+Ahh, blessed relief after the hellscape of day 13. A day in which I don't have to rediscover and implement Chinese remainder theorem from a position of complete ignorance is a good day. Just a bit of mucking about converting integers to binary strings, doing a bit of iteration here, fiddling with bits there. Some good old fashioned regex abuse. A happy 2-stars-by-end-of-my-lunch-break day.
