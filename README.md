@@ -46,3 +46,12 @@ Workmanlike. No nonsense. Brute forcey. Like a George Foreman punch. Or a burger
 You don't need drugs. Just try to understand my code. I certainly don't.
 
 Far out, dude!
+
+# Day 11
+All a bit Conway's Game of Life. Respectable solution. Not quite sure why I needed 8 booleans at one point. I probably didn't, but, well, got things to do, places to be.
+
+# Day 12
+Gah! Stupid mistake after stupid mistake. Fine in the end.
+
+# Day 13
+Abomination.
