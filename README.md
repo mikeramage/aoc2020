@@ -58,3 +58,6 @@ Abomination.
 
 # Day 14
 Ahh, blessed relief after the hellscape of day 13. A day in which I don't have to rediscover and implement Chinese remainder theorem from a position of complete ignorance is a good day. Just a bit of mucking about converting integers to binary strings, doing a bit of iteration here, fiddling with bits there. Some good old fashioned regex abuse. A happy 2-stars-by-end-of-my-lunch-break day.
+
+#Day 15
+Very lazy and badly written. Can't be bothered to change it. Maybe some day. Maybe in Rust. On rereading my program I started to drift. A long-forgotten melody started playing in my head. On and on and round and round went the tune. My eyes started to glaze over, the lids began to droop. I woke up with a start in a pool of drool 2 hours later, splitting headache, dry, cracked lips. Sad.
