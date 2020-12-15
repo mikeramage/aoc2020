@@ -1,9 +1,10 @@
-#TODO rewrite with generators
+# TODO rewrite with generators
 
-starting_numbers = [11,18,0,20,1,7,16]
+starting_numbers = [11, 18, 0, 20, 1, 7, 16]
 
 spoken_hist = list()
 turn_last_spoken = dict()
+
 
 def determine_next_number(turn_last_spoken, spoken_hist, current_index):
     next_number = 0
@@ -14,6 +15,7 @@ def determine_next_number(turn_last_spoken, spoken_hist, current_index):
         if last_number in turn_last_spoken.keys():
             next_number = current_index - turn_last_spoken[last_number] - 1
     return next_number
+
 
 last_number = 0
 for index in range(30000000):
