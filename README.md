@@ -64,3 +64,6 @@ Very lazy and badly written. Can't be bothered to change it. Maybe some day. May
 
 # Day 16
 The less said ...
+
+# Day 17
+... the better.
