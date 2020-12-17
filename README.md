@@ -61,3 +61,6 @@ Ahh, blessed relief after the hellscape of day 13. A day in which I don't have t
 
 # Day 15
 Very lazy and badly written. Can't be bothered to change it. Maybe some day. Maybe in Rust. On rereading my program I started to drift. A long-forgotten melody started playing in my head. On and on and round and round went the tune. My eyes started to glaze over, the lids began to droop. I woke up with a start in a pool of drool 2 hours later, splitting headache, dry, cracked lips. Sad.
+
+# Day 16
+The less said ...
